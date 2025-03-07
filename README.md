@@ -4,10 +4,10 @@ Budget Tracker to help individuals manage their finances by recording their inco
 ![image](https://github.com/user-attachments/assets/4fd2e0cb-833a-4363-8cb4-a5416a171c17)
 
 ## Downloading Spreadsheet
-1. Locate to the Monthly Budget Calculator.
+1. Locate "Monthly Budget Calculator".
 2. Begin the downloading of the spredsheet by pressing "raw".
 3. Open the file in Microsoft Excel.
-4. Customize the category and values to you personel lifestye.
+4. Customize the categories and values to you personel lifestye.
 
 ## Utilizing the spreadsheet
 1. **Insert Data:** Insert your monthly income and expenses.
